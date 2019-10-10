@@ -1,8 +1,56 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "response": {
+        "errorCode": "0",
+        "errorMessage": "Service successfully executed",
+        "date": "2019-09-18 00:00:00",
+        "totalTechs": "1",
+        "techList": [
+          {
+            "techName": "ERICK VEGA HIDALGO",
+            "techCod86": "90252",
+            "days": [
+              {
+                "name": "MON",
+                "dayOff": 1,
+                "Shift": "-"
+              },
+              {
+                "name": "TUE",
+                "dayOff": 1,
+                "Shift": "-"
+              },
+              {
+                "name": "WED",
+                "dayOff": 0,
+                "Shift": "B"
+              },
+              {
+                "name": "THU",
+                "dayOff": 0,
+                "Shift": "B"
+              },
+              {
+                "name": "FRI",
+                "dayOff": 0,
+                "Shift": "B"
+              },
+              {
+                "name": "SAT",
+                "dayOff": 0,
+                "Shift": "C"
+              },
+              {
+                "name": "SUN",
+                "dayOff": 0,
+                "Shift": "C"
+              }
+            ]
+          }
+        ]
+      }
+    }
   ],
   "empShift": [
     { "id": 1, "title": "Post 1" },
